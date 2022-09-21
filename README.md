@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+MrX-WhatsApp-Assistant;This+Bot+Made+By+MrX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+MUSIC-WhatsApp-Assistant;This+Bot+Made+By+MrX)](https://git.io/typing-svg)
 <div align="center">
         <img src="http://www.generalwebsitex.ml/my%20logo.jgp" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="MrX WhatsApp Assistant" src="https://img.shields.io/badge/MrX-Whatsapp_Assistant-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MUSIC WhatsApp Assistant" src="https://img.shields.io/badge/MrX-Whatsapp_Assistant-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 </p>
